@@ -1,5 +1,5 @@
-# Raccolta-Risorse
-Raccolta di risorse gratuite di Finanza e di Programmazione
+# Raccolta-Risorse Finanza e Crypto
+Raccolta di risorse gratuite di Finanza e cryptovalute.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
