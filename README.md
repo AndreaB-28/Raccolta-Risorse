@@ -4,7 +4,7 @@ Raccolta di risorse gratuite di Finanza e cryptovalute.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#FINANZA :shortcode 
+#FINANZA :euro:
 
 #Crypto ₿ :
 - bitcoin-paper: https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf - il white paper di bitcoin in italiano
