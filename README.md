@@ -1,28 +1,28 @@
 :notebook_with_decorative_cover: # Raccolta-Risorse Finanza e Crypto ₿
-Raccolta di risorse gratuite di Finanza e cryptovalute.
+Raccolta di risorse gratuite di Bitcoin e cryptovalute.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Bitcoin & Crypto ₿ :
+#Bitcoin ₿ & Crypto:
 - bitcoin-paper: https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf - il white paper di bitcoin in italiano
 - BITCOIN: Tutto quello che devi sapere: https://pindol.medium.com/premessa-1e5254a52475 - raccolta su Medium di molte risorse su Btc, in particolare: L’ABC, UNDERSTANDING BITCOIN di Giacomo Zucco, WALLET, MINING, SICUREZZA E PRIVACY, VIDEO E ARTICOLI SPECIFICI, COMPRARE, VENDERE E RICEVERE, LIGHTNING NETWORK, BPLAN — Il mio lungo viaggio nella tana del bianconiglio, BITCOIN NELLA VITA REALE, ASPETTI LEGALI E FISCALI, CONFERENZE, FILM e DOCUMENTARI, BITCOIN IN TV, LIBRI, CORSO “BITCOIN — Dalla teoria alla pratica”, CANALI YOUTUBE, PODCAST, Dove posso approfondire ulteriormente?
 - risorsebitcoin by Mir - https://github.com/mirserena/risorsebitcoin/blob/main/README.md - raccolta su github di tante risorse su BTC tutte in italiano, in particolare: Da dove iniziare, Approfondimenti, Community, Wallet, Exchange e sistemi per comprare Bitcoin, Runnare un full node, Servizi Bitcoin per le imprese, Imprese che accettano Bitcoin, Siti contenitore, Physical Store.
 
 #Migliori canali youtube crypto :video_camera:  :
-- https://www.youtube.com/@TizianoTridico   - Canale di Tiziano Tridicio, dove si parla di Crypto e economia in generale, ogni lunedi un video, più altri video settimanali, fà parte anche di Koinsquare - https://www.youtube.com/c/Koinsquare dove si possono trovare contenuti crypto.
+- https://www.youtube.com/@TizianoTridico   - Canale di Tiziano Tridicio, dove si parla di Crypto e economia in generale, ogni lunedi un video, più live il mercoledi sera, fà parte anche di Koinsquare - https://www.youtube.com/c/Koinsquare dove si possono trovare contenuti crypto.
 - https://www.youtube.com/@FilippoAngeloni/featured - Canale di Filippo Angeloni, dove si parla di Crypto ma anche di economia tradizionale, anche lui fà parte di Koinsquare. Sito web https://www.filippoangeloni.com/ per altri contenuti.
 - https://www.youtube.com/@thecryptogateway - Canale di Luca Boiardi, c'è anche il suo sito https://thecryptogateway.it/ con tante risorse gratuite.
 - https://www.youtube.com/@BlockChainCaffe/featured - Canale di Marco Crotta, il suo sito è :https://www.blockchaincaffe.it/
 
 #Portali web di utilità:
-- https://coinmarketcap.com/  portale web dove si possono trovare le quotazioni, grafici e principali risorse di tutte le coin/Token presenti sui principali exchange. Alternative: https://coinpaprika.com/ opppure https://www.coingecko.com/it
+- https://coinmarketcap.com/  portale web dove si possono trovare le quotazioni, grafici e principali risorse di tutte le coin/Token presenti sui principali exchange. Alternative: https://coinpaprika.com/ oppure https://www.coingecko.com/it
 - https://coin360.com/ portale web, dove si capisce velocemente la performance del mercato crypto in varie finestre temporali.
 - https://alternative.me/crypto/fear-and-greed-index/ Portale dove si possono trovare informazioni sul sentiment del mercato crytpo.
 - https://studio.glassnode.com/metrics?a=BTC&m=addresses.ActiveCount Portale dove si possono trovare metriche(Addresses, distribution, Entities, Volume ecc) sulle principali blockchain. *Tante metriche richiedono l'account a pagamento.
 - https://app.intotheblock.com/ strumento simile a glassnode dove si possono trovare info. utili sulle varie chain. * Anche in questo portale, le principali info. sono a pagamento.
 - https://www.stakingrewards.com/?sort=rank_ASC Portale dove si possono trovare info. sui ritorni dello staking dei principali assest crypto, e tutti requisiti che occorrono per iniziare.
 - https://buybitcoinworldwide.com/stats/ aggregatore di tutta una serie di metriche(Time to next halving,Fear & Greed index,Days higher than current price ecc) e grafici.
-- https://companiesmarketcap.com/assets-by-market-cap/ Portale web dove c'è la classfica dei principali asset crypto e non, ordinati per capitalizzazione di mercato. Alternativa: https://8marketcap.com/
+- https://companiesmarketcap.com/assets-by-market-cap/ Portale web dove c'è la classifica dei principali asset crypto e non, ordinati per capitalizzazione di mercato. Alternativa: https://8marketcap.com/
 - https://txstreet.com/d/home portale web dove puoi vedere come viene composto un blocco per la varie chain:
 ![image](https://user-images.githubusercontent.com/11600332/205486840-5a1ddfe5-e0d6-4abf-8f3a-abed4b0ac53f.png)
 - https://ethereumprice.org/gas/ Portale che si occupa del gas della rete Ethereum, per un analisi o semplicemente per vedere quando conviene fare un'operazione.
