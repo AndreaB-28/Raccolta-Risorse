@@ -1,8 +1,8 @@
-:notebook_with_decorative_cover: #Raccolta di risorse gratuite(e non vedi *) di Bitcoin e cryptovalute.
+:notebook_with_decorative_cover: #Raccolta di risorse gratuite(e non vedi *) di Bitcoin e crypto-valute.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Bitcoin ₿ & Crypto:
+#Nozioni di Bitcoin ₿ & Crypto:
 - bitcoin-paper: https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf - il white paper di bitcoin in italiano
 - BITCOIN: Tutto quello che devi sapere: https://pindol.medium.com/premessa-1e5254a52475 - raccolta su Medium di molte risorse su Btc, in particolare: L’ABC, UNDERSTANDING BITCOIN di Giacomo Zucco, WALLET, MINING, SICUREZZA E PRIVACY, VIDEO E ARTICOLI SPECIFICI, COMPRARE, VENDERE E RICEVERE, LIGHTNING NETWORK, BPLAN — Il mio lungo viaggio nella tana del bianconiglio, BITCOIN NELLA VITA REALE, ASPETTI LEGALI E FISCALI, CONFERENZE, FILM e DOCUMENTARI, BITCOIN IN TV, LIBRI, CORSO “BITCOIN — Dalla teoria alla pratica”, CANALI YOUTUBE, PODCAST, Dove posso approfondire ulteriormente?
 - risorsebitcoin by Mir - https://github.com/mirserena/risorsebitcoin/blob/main/README.md - raccolta su github di tante risorse su BTC tutte in italiano, in particolare: Da dove iniziare, Approfondimenti, Community, Wallet, Exchange e sistemi per comprare Bitcoin, Runnare un full node, Servizi Bitcoin per le imprese, Imprese che accettano Bitcoin, Siti contenitore, Physical Store.
