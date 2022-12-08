@@ -3,9 +3,9 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Nozioni di Bitcoin ₿ & Crypto:
-- bitcoin-paper: https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf - il white paper di bitcoin in italiano
-- BITCOIN: Tutto quello che devi sapere: https://pindol.medium.com/premessa-1e5254a52475 - raccolta su Medium di molte risorse su Btc, in particolare: L’ABC, UNDERSTANDING BITCOIN di Giacomo Zucco, WALLET, MINING, SICUREZZA E PRIVACY, VIDEO E ARTICOLI SPECIFICI, COMPRARE, VENDERE E RICEVERE, LIGHTNING NETWORK, BPLAN — Il mio lungo viaggio nella tana del bianconiglio, BITCOIN NELLA VITA REALE, ASPETTI LEGALI E FISCALI, CONFERENZE, FILM e DOCUMENTARI, BITCOIN IN TV, LIBRI, CORSO “BITCOIN — Dalla teoria alla pratica”, CANALI YOUTUBE, PODCAST, Dove posso approfondire ulteriormente?
-- risorsebitcoin by Mir - https://github.com/mirserena/risorsebitcoin/blob/main/README.md - raccolta su github di tante risorse su BTC tutte in italiano, in particolare: Da dove iniziare, Approfondimenti, Community, Wallet, Exchange e sistemi per comprare Bitcoin, Runnare un full node, Servizi Bitcoin per le imprese, Imprese che accettano Bitcoin, Siti contenitore, Physical Store.
+- bitcoin-paper: http://bit.ly/3h4a0tT - PDF - il white paper di bitcoin in italiano
+- BITCOIN: Tutto quello che devi sapere: bit.ly/3UIkk8D - raccolta su Medium di molte risorse su Btc, in particolare: L’ABC, UNDERSTANDING BITCOIN di Giacomo Zucco, WALLET, MINING, SICUREZZA E PRIVACY, VIDEO E ARTICOLI SPECIFICI, COMPRARE, VENDERE E RICEVERE, LIGHTNING NETWORK, BPLAN — Il mio lungo viaggio nella tana del bianconiglio, BITCOIN NELLA VITA REALE, ASPETTI LEGALI E FISCALI, CONFERENZE, FILM e DOCUMENTARI, BITCOIN IN TV, LIBRI, CORSO “BITCOIN — Dalla teoria alla pratica”, CANALI YOUTUBE, PODCAST, Dove posso approfondire ulteriormente?
+- risorsebitcoin by Mir - http://bit.ly/3uy40MP - raccolta su github di tante risorse su BTC tutte in italiano, in particolare: Da dove iniziare, Approfondimenti, Community, Wallet, Exchange e sistemi per comprare Bitcoin, Runnare un full node, Servizi Bitcoin per le imprese, Imprese che accettano Bitcoin, Siti contenitore, Physical Store.
 
 #Migliori canali youtube crypto :video_camera:  :
 - https://www.youtube.com/@TizianoTridico   - Canale di Tiziano Tridicio, dove si parla di Crypto e economia in generale, ogni lunedi un video, più live il mercoledi sera, fà parte anche di Koinsquare - https://www.youtube.com/c/Koinsquare dove si possono trovare contenuti crypto.
@@ -31,14 +31,14 @@
 ![image](https://user-images.githubusercontent.com/11600332/205487169-e82da653-a2da-4829-a08d-e2c6b2266c0c.png)
 ![image](https://user-images.githubusercontent.com/11600332/205487187-404fe0d7-8952-42e0-bc95-7a96ac7d069d.png)
 - https://www.blockchain.com/explorer/charts/hash-rate portale con tante infomazioni utili, tipo Total Hash Rate (TH/s), Miners Revenue (USD), Cost Per Transaction e molto altro.
-- https://defillama.com/chains Portale di riferiemento per una panoramica genarale sulla Defi:
+- https://defillama.com/chains - Portale di riferiemento per una panoramica genarale sulla Defi:
 ![image](https://user-images.githubusercontent.com/11600332/205487381-6f89cd59-231c-4792-9092-5b8188b76b57.png)
-- https://www.forexfactory.com/calendar#closed - Portale dove vengono riportati tutti gli eventi economici, divisi per giorni e per importanza, facendo click sull'icona a forma di cartella, si aprono i dettagli e si possono trovare tutti i riferimento del caso:
+- http://bit.ly/3UGbzf9 - Portale dove vengono riportati tutti gli eventi economici, divisi per giorni e per importanza, facendo click sull'icona a forma di cartella, si aprono i dettagli e si possono trovare tutti i riferimento del caso:
 ![image](https://user-images.githubusercontent.com/11600332/205947345-9230da61-9aa8-43ef-ab1b-2b14de4768c6.png)
 ![image](https://user-images.githubusercontent.com/11600332/205947474-2c8e7d9c-1e22-4886-b2d4-e9bc7f2c80d1.png)
-- https://www.cryptocompare.com/mining/calculator/btc?HashingPower=80&HashingUnit=TH%2Fs&PowerConsumption=1500&CostPerkWh=0.05&MiningPoolFee=1 -  portale utile per capire i costi del mining, inserendo dei semplici parametri:
+- http://bit.ly/3uxUDwy -  portale utile per capire i costi del mining, inserendo dei semplici parametri:
 ![image](https://user-images.githubusercontent.com/11600332/205948491-5ca507e4-2e53-48e8-91f4-837e96c3170c.png)
-- https://tokenterminal.com/terminal/metrics/active_developers - Portale web dove si possono trovare divese metriche ad esempio:"Le migliori dapps e blockchain basate su sviluppatori attivi quotidianamente":
+- http://bit.ly/3Fg2kwF - Portale web dove si possono trovare divese metriche ad esempio:"Le migliori dapps e blockchain basate su sviluppatori attivi quotidianamente":
 ![image](https://user-images.githubusercontent.com/11600332/205957021-2631e7e1-f0d2-4a8f-a5b6-e24a5e964490.png)
 
 
