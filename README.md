@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Nozioni di Bitcoin ₿ & Crypto:
-- bitcoin-paper: <ins> http://bit.ly/3h4a0tT </ins> - PDF - il white paper di bitcoin in italiano
+- bitcoin-paper: <a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf">Visit W3Schools.com!</a> - PDF - il white paper di bitcoin in italiano
 - BITCOIN: Tutto quello che devi sapere: https://bit.ly/3UIkk8D - raccolta su Medium di molte risorse su Btc, in particolare: L’ABC, UNDERSTANDING BITCOIN di Giacomo Zucco, WALLET, MINING, SICUREZZA E PRIVACY, VIDEO E ARTICOLI SPECIFICI, COMPRARE, VENDERE E RICEVERE, LIGHTNING NETWORK, BPLAN — Il mio lungo viaggio nella tana del bianconiglio, BITCOIN NELLA VITA REALE, ASPETTI LEGALI E FISCALI, CONFERENZE, FILM e DOCUMENTARI, BITCOIN IN TV, LIBRI, CORSO “BITCOIN — Dalla teoria alla pratica”, CANALI YOUTUBE, PODCAST, Dove posso approfondire ulteriormente?
 - risorsebitcoin by Mir - http://bit.ly/3uy40MP - raccolta su github di tante risorse su BTC tutte in italiano, in particolare: Da dove iniziare, Approfondimenti, Community, Wallet, Exchange e sistemi per comprare Bitcoin, Runnare un full node, Servizi Bitcoin per le imprese, Imprese che accettano Bitcoin, Siti contenitore, Physical Store.
 
