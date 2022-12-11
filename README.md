@@ -5,13 +5,13 @@
 #Nozioni di Bitcoin ₿ & Crypto:
 - bitcoin-paper: <a href="https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf">bitcoin.org</a> - PDF - il white paper di bitcoin in italiano
 - BITCOIN: Tutto quello che devi sapere: <a href="https://pindol.medium.com/premessa-1e5254a52475">pindol.medium.com</a> - raccolta su Medium di molte risorse su Btc, in particolare: L’ABC, UNDERSTANDING BITCOIN di Giacomo Zucco, WALLET, MINING, SICUREZZA E PRIVACY, VIDEO E ARTICOLI SPECIFICI, COMPRARE, VENDERE E RICEVERE, LIGHTNING NETWORK, BPLAN — Il mio lungo viaggio nella tana del bianconiglio, BITCOIN NELLA VITA REALE, ASPETTI LEGALI E FISCALI, CONFERENZE, FILM e DOCUMENTARI, BITCOIN IN TV, LIBRI, CORSO “BITCOIN — Dalla teoria alla pratica”, CANALI YOUTUBE, PODCAST, Dove posso approfondire ulteriormente?
-- risorsebitcoin by Mir - <a href="https://github.com/mirserena/risorsebitcoin/blob/main/README.md">mirserena/</a> - raccolta su github di tante risorse su BTC tutte in italiano, in particolare: Da dove iniziare, Approfondimenti, Community, Wallet, Exchange e sistemi per comprare Bitcoin, Runnare un full node, Servizi Bitcoin per le imprese, Imprese che accettano Bitcoin, Siti contenitore, Physical Store.
+- risorsebitcoin by Mir - <a href="https://github.com/mirserena/risorsebitcoin/blob/main/README.md">mirserena</a> - raccolta su github di tante risorse su BTC tutte in italiano, in particolare: Da dove iniziare, Approfondimenti, Community, Wallet, Exchange e sistemi per comprare Bitcoin, Runnare un full node, Servizi Bitcoin per le imprese, Imprese che accettano Bitcoin, Siti contenitore, Physical Store.
 
 #Migliori canali youtube crypto :video_camera:  :
-- https://www.youtube.com/@TizianoTridico   - Canale di Tiziano Tridicio, dove si parla di Crypto e economia in generale, ogni lunedi un video, più live il mercoledi sera, fà parte anche di Koinsquare - https://www.youtube.com/c/Koinsquare dove si possono trovare contenuti crypto.
-- https://www.youtube.com/@FilippoAngeloni/featured - Canale di Filippo Angeloni, dove si parla di Crypto ma anche di economia tradizionale, anche lui fà parte di Koinsquare. Sito web https://www.filippoangeloni.com/ per altri contenuti.
-- https://www.youtube.com/@thecryptogateway - Canale di Luca Boiardi, c'è anche il suo sito https://thecryptogateway.it/ con tante risorse gratuite.
-- https://www.youtube.com/@BlockChainCaffe/featured - Canale di Marco Crotta, il suo sito è :https://www.blockchaincaffe.it/
+- <a href="https://www.youtube.com/@TizianoTridico">TizianoTridico/</a>   - Canale di Tiziano Tridicio, dove si parla di Crypto e economia in generale, ogni lunedi un video, più live il mercoledi sera, fà parte anche di Koinsquare - <a href="https://www.youtube.com/c/Koinsquare">Koinsquare/</a> dove si possono trovare contenuti crypto.
+- <a href="https://www.youtube.com/@FilippoAngeloni/featured">FilippoAngeloni/</a> - Canale di Filippo Angeloni, dove si parla di Crypto ma anche di economia tradizionale, anche lui fà parte di Koinsquare. Sito web https://www.filippoangeloni.com/ per altri contenuti.
+- <a href="https://www.youtube.com/@thecryptogateway">thecryptogateway/</a> - Canale di Luca Boiardi, c'è anche il suo sito <a href="https://thecryptogateway.it/">thecryptogateway/</a> con tante risorse gratuite.
+- <a href="https://www.youtube.com/@BlockChainCaffe/featured">BlockChainCaffe/</a> - Canale di Marco Crotta, il suo sito è :<a href="https://www.blockchaincaffe.it/">BlockChainCaffe/</a>
 
 #Portali web di utilità:
 - https://coinmarketcap.com/  portale web dove si possono trovare le quotazioni, grafici e principali risorse di tutte le coin/Token presenti sui principali exchange. Alternative: https://coinpaprika.com/ oppure https://www.coingecko.com/it
