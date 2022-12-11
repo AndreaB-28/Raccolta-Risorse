@@ -46,6 +46,8 @@
 
 - <a href="https://bitcashback.net/?r=2290">bitcashback</a> - portale dove, passando semplicemente dai loro link, si può ottere un cashback in bitcoin:
 ![image](https://user-images.githubusercontent.com/11600332/206912787-9fb9ab88-467f-4f43-9b3e-b36ddd396c1c.png)
+![image](https://user-images.githubusercontent.com/11600332/206913325-956593be-9c2a-40fb-beb4-61905633cb2a.png)
+
 
 
 
