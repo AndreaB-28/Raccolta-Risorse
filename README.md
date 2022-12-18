@@ -1,4 +1,4 @@
-:notebook_with_decorative_cover: #Raccolta di risorse gratuite(e non vedi *) di Bitcoin e crypto-valute.
+:notebook_with_decorative_cover: #Raccolta di risorse gratuite e non (vedi *) di Bitcoin e crypto-valute.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
