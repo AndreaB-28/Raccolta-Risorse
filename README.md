@@ -32,7 +32,7 @@
 ![image](https://user-images.githubusercontent.com/11600332/205487169-e82da653-a2da-4829-a08d-e2c6b2266c0c.png)
 ![image](https://user-images.githubusercontent.com/11600332/205487187-404fe0d7-8952-42e0-bc95-7a96ac7d069d.png)</details>
 - <a href="https://www.blockchain.com/explorer/charts/hash-rate">blockchain.com</a> - portale con tante infomazioni utili, tipo Total Hash Rate (TH/s), Miners Revenue (USD), Cost Per Transaction e molto altro.
-- <a href="https://defillama.com/chains">defillama</a> - Portale di riferimento per una panoramica genarale sulla Defi:<details>
+- <a href="https://defillama.com/chains">defillama</a> - Portale di riferimento per una panoramica generale sulla Defi:<details>
 ![image](https://user-images.githubusercontent.com/11600332/205487381-6f89cd59-231c-4792-9092-5b8188b76b57.png)</details>
 - <a href="https://www.forexfactory.com/calendar#closed">forexfactory</a>  - Portale dove vengono riportati tutti gli eventi economici, divisi per giorni e per importanza, facendo click sull'icona a forma di cartella, si aprono i dettagli e si possono trovare tutti i riferimento del caso:<details>
 ![image](https://user-images.githubusercontent.com/11600332/205947345-9230da61-9aa8-43ef-ab1b-2b14de4768c6.png)
