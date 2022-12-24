@@ -8,11 +8,11 @@
 - risorsebitcoin by Mir - <a href="https://github.com/mirserena/risorsebitcoin/blob/main/README.md">mirserena</a> - raccolta su github di tante risorse su BTC tutte in italiano, in particolare: Da dove iniziare, Approfondimenti, Community, Wallet, Exchange e sistemi per comprare Bitcoin, Runnare un full node, Servizi Bitcoin per le imprese, Imprese che accettano Bitcoin, Siti contenitore, Physical Store.
 
 #Migliori canali youtube/telegram crypto :video_camera:  :
-- <a href="https://www.youtube.com/@TizianoTridico">TizianoTridico</a>   - Canale di Tiziano Tridicio, dove si parla di Crypto e economia in generale, ogni lunedi un video, più live il mercoledi sera, fà parte anche di Koinsquare - <a href="https://www.youtube.com/c/Koinsquare">Koinsquare</a> dove si possono trovare contenuti crypto.<a href="https://t.me/koinsquare">KoinSquareNewsTelegram</a> 
+- <a href="https://www.youtube.com/@TizianoTridico">TizianoTridico</a>   - Canale di Tiziano Tridicio, dove si parla di Crypto e economia in generale, ogni lunedi un video, più live il mercoledi sera, fà parte anche di Koinsquare - <a href="https://www.youtube.com/c/Koinsquare">Koinsquare</a> dove si possono trovare contenuti crypto. (Canale Telegram)<a href="https://t.me/koinsquare">KoinSquareNewsTelegram</a> 
 - <a href="https://www.youtube.com/@FilippoAngeloni/featured">FilippoAngeloni</a> - Canale di Filippo Angeloni, dove si parla di Crypto ma anche di economia tradizionale, anche lui fà parte di Koinsquare. Sito web <a href="https://www.filippoangeloni.com/">FilippoAngeloniSitoWeb</a> per altri contenuti.
-- <a href="https://www.youtube.com/@thecryptogateway">thecryptogateway</a> - Canale di Luca Boiardi, c'è anche il suo sito <a href="https://thecryptogateway.it/">thecryptogatewaySitoWeb</a> con tante risorse gratuite.<a href="https://t.me/TheCryptoGateway">TheCryptoGatewayTelegram</a> 
+- <a href="https://www.youtube.com/@thecryptogateway">thecryptogateway</a> - Canale di Luca Boiardi, c'è anche il suo sito <a href="https://thecryptogateway.it/">thecryptogatewaySitoWeb</a> con tante risorse gratuite.(Canale Telegram)<a href="https://t.me/TheCryptoGateway">TheCryptoGatewayTelegram</a> 
 - <a href="https://www.youtube.com/@BlockChainCaffe/featured">BlockChainCaffe</a> - Canale di Marco Crotta, il suo sito è :<a href="https://www.blockchaincaffe.it/">BlockChainCaffeSitoWeb</a>
-- <a href="https://www.criptovaluta.it/">criptovalutait</a> - Portale web con tante informazioni utili.
+- <a href="https://t.me/criptovalutait">criptovalutait</a>  - Canale telegram del portale criptovalutait
 
 #Portali web di utilità:
 - <a href="https://coinmarketcap.com/">coinmarketcap</a>  - portale web dove si possono trovare le quotazioni, grafici e principali risorse di tutte le coin/Token presenti sui principali exchange. Alternative: <a href="https://coinpaprika.com/">coinpaprika</a> oppure <a href="https://www.coingecko.com/it">coingecko</a> 
